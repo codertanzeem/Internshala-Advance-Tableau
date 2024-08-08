@@ -13,9 +13,11 @@ This repository is for the SKILLS earned and a PROJECT made during Advance TABLE
 
 # PROJECT DESCRIPTION -->
 ## Problem Statement:
+
 Design an interactive and visually informative dashboard using Tableau to present the sales data for a bike shop named "The Bike Haven."
 
 ## Description:
+
 In the vibrant city of San Francisco, a small yet dedicated bike shop called "The Bike Haven" operates, offering a variety of products such as bikes, clothing, accessories, and components. The shop was founded by John, a cycling enthusiast whose passion for bikes began in his youth. Growing up in a small town, John developed a deep love for cycling, spending countless hours tinkering with his bike to make it faster and more efficient. His dedication to the sport led him to become a competitive cyclist, winning numerous local races and even competing internationally.
 
 After several years of racing, John decided to retire from competition and channel his passion for bikes into a new venture. He opened The Bike Haven, a small shop dedicated to selling high-quality bikes and accessories to fellow cycling enthusiasts. Initially, the business struggled, and John found it difficult to make ends meet. However, he remained determined, working tirelessly to establish his shop as a trusted name in the cycling community. As word spread about the exceptional products and customer service at The Bike Haven, the shop began to attract a loyal customer base. John's extensive knowledge and love for bikes enabled him to provide expert advice on everything from bike maintenance to selecting the perfect bike for each customer's needs. Over time, The Bike Haven grew in popularity, becoming the go-to destination for serious cyclists in the city.
@@ -45,5 +47,6 @@ The dashboard should include the following visualizations:
 * Product Categories vs. Sales Amount: Analyze how each product category is performing to identify high-revenue areas and those requiring more focus.
 
 
-Final Task:
+## Final Task:
+
 Once you've created the dashboard, you will need to record a video demonstrating its interactivity and the functionality of the filters. This video will showcase how the dashboard responds to user actions and provide insight into the effectiveness of the filters. The video should be uploaded to your Google Drive or YouTube channel, and the link should be shared with us. Additionally, upload the PDF of the dashboard to your drive, and include both links (to the dashboard and video) in a Word or PDF file to be shared with us.
